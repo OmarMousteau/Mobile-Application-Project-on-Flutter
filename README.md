@@ -6,3 +6,4 @@ Voici quelques élements importants du projet :
 
 Vamos
 ![image](https://user-images.githubusercontent.com/105743310/195203292-468934b6-980f-497a-8878-a15115e81a4e.png)
+<img src="https://user-images.githubusercontent.com/105743310/195203292-468934b6-980f-497a-8878-a15115e81a4e.jpg" alt="welcome" width="10"/>
