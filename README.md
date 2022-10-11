@@ -4,6 +4,5 @@ Dans le cadre d'un projet de start-up, notre idée était de permettre au consom
 Elle se nomme Spense.
 Voici quelques élements importants du projet :
 
-Vamos
-![image](https://user-images.githubusercontent.com/105743310/195203292-468934b6-980f-497a-8878-a15115e81a4e.png)
-<img src="https://user-images.githubusercontent.com/105743310/195203292-468934b6-980f-497a-8878-a15115e81a4e.jpg" alt="welcome" width="10"/>
+Page d'accueil et présentation de l'application et la start-up Spense :
+![image](https://user-images.githubusercontent.com/105743310/195203292-468934b6-980f-497a-8878-a15115e81a4e.png | width=10)
