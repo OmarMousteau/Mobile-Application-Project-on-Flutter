@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113623287299",
+    "project_id": "spenseproject",
+    "storage_bucket": "spenseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113623287299:android:f1ff66d3a9b361dabb3036",
+        "android_client_info": {
+          "package_name": "com.example.login_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113623287299-9r545elp6durl6bdm4qhlpes75lb9cf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsTW_t45l02QNejzpJacsvDWO6CzO0fV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113623287299-9r545elp6durl6bdm4qhlpes75lb9cf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
